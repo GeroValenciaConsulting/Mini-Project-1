@@ -1,1 +1,1 @@
-# friendly-invention
+#  Mini Project
